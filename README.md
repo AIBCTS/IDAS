@@ -1,1 +1,2 @@
 # IDAS
+The IDAS (Ischemia and Donor Age - Interactive Assessment Tool for Heart Transplant Survival) calculator is a tool designed to assess the suitability of a donor for heart transplantation depending on the expected ischemic time. This interactive and dynamic nomogram is based on a comprehensive analysis of 83,761 heart transplants from International Society of Heart Transpantation (ISHLT) registry, integrating key variables to enhance clinical decision-making. The study is published in Journal of XXXX xxxx;xxx:xxx–xxx"
