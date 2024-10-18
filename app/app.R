@@ -141,7 +141,7 @@ server <- function(input, output) {
             surv_fit_newdata,
             data = new_data,
             #linetype = c("solid","dashed","dotted","dotdash"),
-            palette = "RdBu",
+            palette = "lancet",
             # grey, hue, Blue, RdBu
             break.time.by = 2,
             surv.scale = c("percent"),
